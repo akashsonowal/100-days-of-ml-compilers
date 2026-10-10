@@ -7,6 +7,10 @@ https://docs.pytorch.org/assets/pytorch2-2.pdf
 https://pytorch.org/blog/introducing-nvfuser-a-deep-learning-compiler-for-pytorch/
 - NNC
 https://dev-discuss.pytorch.org/t/nnc-walkthrough-how-pytorch-ops-get-fused/125
+- Grace
+https://www.csa.iisc.ac.in/~arkapravab/papers/OSDI26_GraCE.pdf
+- StreamAlloc
+https://dl.acm.org/doi/pdf/10.1145/3799893
 
 # TVM
 https://arxiv.org/pdf/1802.04799

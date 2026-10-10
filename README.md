@@ -1,12 +1,11 @@
 # 100-days-of-ml-compilers
 
-# Torch Compile
+# PyTorch Compiler
+- Torch Compile
 https://docs.pytorch.org/assets/pytorch2-2.pdf
-
-# nvfuser
+- nvfuser
 https://pytorch.org/blog/introducing-nvfuser-a-deep-learning-compiler-for-pytorch/
-
-# NNC
+- NNC
 https://dev-discuss.pytorch.org/t/nnc-walkthrough-how-pytorch-ops-get-fused/125
 
 # TVM

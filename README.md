@@ -1,5 +1,16 @@
 # 100-days-of-ml-compilers
 
+# 100 Days
+
+November 2026 till January 2027
+
+Courses:
+- https://book.mlc.ai/
+- https://tvm.d2l.ai/index.html
+- https://apxml.com/courses/intro-ml-compiler-optimization
+- https://apxml.com/courses/compiler-optimizations-machine-learning
+- https://apxml.com/courses/compiler-runtime-optimization-ml
+
 # PyTorch Compiler
 - Torch Compile
 https://docs.pytorch.org/assets/pytorch2-2.pdf

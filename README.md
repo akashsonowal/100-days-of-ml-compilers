@@ -1,7 +1,4 @@
 # 100-days-of-ml-compilers
-
-# 100 Days
-
 November 2026 till January 2027
 
 Courses:

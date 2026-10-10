@@ -17,18 +17,19 @@ https://openxla.org/
 
 # MLIR
 
-## Nova
+- Nova
 https://arxiv.org/pdf/2608.00029
-## Triton Compiler
+- Triton Compiler
 https://www.eecs.harvard.edu/~htk/publication/2019-mapl-tillet-kung-cox.pdf
 https://arxiv.org/pdf/2504.19442
-## IREE
+- IREE
 https://iree.dev/
+- Polyblocks
+https://arxiv.org/pdf/2603.06731
 
 -------------------------------
 
 # Halide
 https://people.csail.mit.edu/jrk/halide-pldi13.pdf
 
-# Polyblocks
-https://arxiv.org/pdf/2603.06731
+
